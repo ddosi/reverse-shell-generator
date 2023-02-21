@@ -20,6 +20,10 @@ https://www.ddosi.org/shell/
 - LocalStorage to persist your configuration
 - Dark, Light and Meme Modes
 - HoaxShell integration with custom listener (see link below for more information) | Credit: https://github.com/t3l3machus
+- 
+### Screenshot
+
+![image](https://raw.githubusercontent.com/ddosi/reverse-shell-generator/main/green-shell/img/21134615.png)
 
 ### HoaxShell Listener Docs
 
